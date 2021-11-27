@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEcgckVezEH+9xuZ79sKBuxRz8Va8USIYBEyakEadkIi5yR0k5b80JalZzb77d3NaGqKjgvZIqbsu2fNdCe69w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ZAYTOUN\\Desktop\\Uni\\Web Development\\book_apps\\Ch01GuitarShop\\GuitarShop\\GuitarShop.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging.Debug. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Web.CodeGeneration.Design. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
